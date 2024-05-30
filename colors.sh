@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 echo $TERM
 
 # This program is free software. It comes without any warranty, to

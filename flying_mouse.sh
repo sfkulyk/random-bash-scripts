@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 let y=0
 let x=0

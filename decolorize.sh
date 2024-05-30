@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # decolor 256 POSIX
   sed 's/\x1B\[[0-9;]\{1,\}[A-Za-z]//g'
 

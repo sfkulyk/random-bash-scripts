@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Special keypress detection
 while true; do
   printf "hexdump: [$(echo -n "$keypress"|hexdump -e '8/1 "%02X ""\t"" "' -e '8/1 "%c""\n"')], characters: $keycounter\n"

@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 echo "=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
 echo "=    It is a joke tool to predict child sex by Platon Number methodic     ="
 echo "=    Based on calculating the age of blood on the moment of conception    ="

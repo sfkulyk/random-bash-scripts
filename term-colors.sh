@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 echo "Terminal: ${TERM}"
 # foreground: 1-255
 # background: 38-48

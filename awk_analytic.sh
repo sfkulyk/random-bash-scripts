@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 echo " Kiev 10
 Kharkov 20
 Kiev 15

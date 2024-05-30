@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 # calculate distance between two gps coordinates
 
 distance () {

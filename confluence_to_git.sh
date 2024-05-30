@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 # Author: Sergii Kulyk
 #
 # Convert confluence changes to git commits
